@@ -33,7 +33,7 @@
 | Location | http://localhost:3000/search/location/*any_name_here* |
 | Services | http://localhost:3000/search/services/*any_service_here* 
 
-#### Links to Postman Collection and screenshots for help
+### Links to Postman Collection and screenshots for help
   https://drive.google.com/open?id=1cbcweYE1gT22Ll_SXp5ayf9QpMcrs1xr
 
 ##### Scraping, parsing and saving data to mongodb database (Already done)
