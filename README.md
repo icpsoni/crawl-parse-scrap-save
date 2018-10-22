@@ -20,6 +20,11 @@
      "services" : ""
     }
     all are optional you can filter your search as you want.
+    
+| Search Field | Link  |
+| ------ | ------ |
+| All filters | http://localhost:3000/search/name and POST Body |
+
    - To search by one field
    Example to search by name is like : 
     Fields are
