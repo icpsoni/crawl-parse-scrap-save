@@ -1,5 +1,5 @@
 # Crawl-parse-scrap-save
-####Learn how to crawl and parse a website and saving data to database.
+#### Learn how to crawl and parse a website and saving data to database.
 ## How to run
 1. Clone the directory
 2. Do "npm install" in it to install all the dependencies.
